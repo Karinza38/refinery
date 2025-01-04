@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
     <img src="assets/logo_wide.svg" alt="refinery Logo">
 
 Powerful SQL migration toolkit for Rust.
